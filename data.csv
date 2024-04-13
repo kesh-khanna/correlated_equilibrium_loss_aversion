@@ -1,0 +1,27 @@
+﻿Participant ID,Game,Player Type,Recommendation 1,Participant Response 1,Recommendation 2,Participant Response 2,Recommendation 3,Participant Response 3,Recommendation 4,Participant Response 4,Recommendation 5,Participant Response 5,Recommendation 6,Participant Response 6,Recommendation 7,Participant Response 7,Recommendation 8,Participant Response 8,Recommendation 9,Participant Response 9,Recommendation 10,Participant Response 10,Consider Opponents Loss Aversion?,Comparison of Loss Aversion
+25,B,Column,S,S,S,S,A,S,A,S,A,S,A,S,S,S,A,S,S,S,S,S,Yes,Less
+7,B,Row,S,S,S,S,A,A,A,S,A,A,A,A,S,A,A,A,S,S,S,A,No,As
+17,A,Column,A,A,A,A,A,A,S,A,S,S,A,S,A,S,A,S,A,S,A,S,,
+8,A,Row,S,S,S,S,A,A,A,A,A,A,A,A,S,S,A,A,S,S,S,S,,
+9,A,Row,S,A,S,A,A,A,A,A,A,A,A,A,S,A,A,S,S,S,S,S,,
+16,B,Row,S,S,S,S,A,A,A,A,A,A,A,S,S,A,A,S,S,S,S,S,Yes,As
+15,A,Column,A,A,A,A,A,A,S,S,S,S,A,S,A,S,A,A,A,A,A,S,,
+14,A,Column,A,A,A,A,A,A,S,S,S,S,A,A,A,A,A,A,A,S,A,S,,
+10,B,Row,S,S,S,S,A,A,A,A,A,A,A,S,S,S,A,A,S,S,S,S,Yes,More
+12,A,Column,A,A,A,A,A,A,S,S,S,S,A,A,A,A,A,A,A,A,A,A,,
+24,B,Column,S,S,S,A,A,A,A,A,A,A,A,S,S,S,A,A,S,S,S,S,Yes,As
+18,B,Row,S,S,S,A,A,A,A,S,A,A,A,A,S,S,A,A,S,A,S,A,Yes,As
+5,B,Row,S,S,S,S,A,A,A,A,A,A,A,A,S,S,A,S,S,S,S,S,No,Less
+19,A,Row,S,S,S,S,A,A,A,A,A,A,A,A,S,A,A,A,S,A,S,S,,
+13,B,Column,S,S,S,S,A,A,A,A,A,A,A,A,S,S,A,A,S,S,S,S,No,
+4,A,Column,A,A,A,A,A,A,S,S,S,S,A,A,A,A,A,A,A,A,A,A,,
+6,A,Row,S,S,S,S,A,A,A,A,A,A,A,A,S,A,A,A,S,A,S,A,,
+26,B,Column,S,A,S,A,A,A,A,A,A,A,A,A,S,A,A,A,S,A,S,A,Yes,Less
+3,B,Column,S,S,S,S,A,A,A,A,A,A,A,A,S,S,A,A,S,A,S,A,Yes,As
+23,A,Row,S,S,S,S,A,S,A,S,A,S,A,S,S,S,A,S,S,S,S,S,,
+2,B,Column,S,S,S,S,A,A,A,A,A,A,A,A,S,S,A,A,S,A,S,S,Yes,As
+21,B,Row,S,S,S,S,A,S,A,S,A,S,A,S,S,S,A,S,S,S,S,S,No,
+11,A,Column,A,S,A,S,A,S,S,A,S,A,A,S,A,S,A,S,A,S,A,S,,
+22,A,Row,S,S,S,S,A,A,A,S,A,S,A,A,S,S,A,A,S,A,S,A,,
+1,B,Column,S,S,S,A,A,A,A,A,A,S,A,A,S,S,A,A,S,A,S,S,No,Less
+20,B,Row,S,S,S,A,A,A,A,S,A,A,A,S,S,S,A,A,S,S,S,S,No,

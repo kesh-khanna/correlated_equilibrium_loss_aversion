@@ -1,0 +1,35 @@
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Participant ID,25,7,17,8,9,16,15,14,10,12,24,18,5,19,13,4,6,26,3,23,2,21,11,22,1,20,
+Game,B,B,A,A,A,B,A,A,B,A,B,B,B,A,B,A,A,B,B,A,B,B,A,A,B,B,
+Player Type,Column,Row,Column,Row,Row,Row,Column,Column,Row,Column,Column,Row,Row,Row,Column,Column,Row,Column,Column,Row,Column,Row,Column,Row,Column,Row,
+Recommendation,S,S,A,S,S,S,A,A,S,A,S,S,S,S,,A,S,S,S,S,S,S,A,S,S,S,3
+Participant Response 1,S,S,A,S,A,S,A,A,S,A,S,S,S,S,S,A,S,A,S,S,S,S,S,S,S,S,
+Recommendation,S,S,A,S,S,S,A,A,S,A,S,S,S,S,,A,S,S,S,S,S,S,A,S,S,S,3
+Participant Response 2,S,S,A,S,A,S,A,A,S,A,A,A,S,S,S,A,S,A,S,S,S,S,S,S,A,A,
+Recommendation,A,A,A,A,A,A,A,A,A,A,A,A,A,A,,A,A,A,A,A,A,A,A,A,A,A,1
+Participant Response 3,S,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,S,A,S,S,A,A,A,
+Recommendation,A,A,S,A,A,A,S,S,A,S,A,A,A,A,,S,A,A,A,A,A,A,S,A,A,A,2
+Participant Response 4,S,S,A,A,A,A,S,S,A,S,A,S,A,A,A,S,A,A,A,S,A,S,A,S,A,S,
+Recommendation,A,A,S,A,A,A,S,S,A,S,A,A,A,A,,S,A,A,A,A,A,A,S,A,A,A,2
+Participant Response 5,S,A,S,A,A,A,S,S,A,S,A,A,A,A,A,S,A,A,A,S,A,S,A,S,S,A,
+Recommendation,A,A,A,A,A,A,A,A,A,A,A,A,A,A,,A,A,A,A,A,A,A,A,A,A,A,1
+Participant Response 6,S,A,S,A,A,S,S,A,S,A,S,A,A,A,A,A,A,A,A,S,A,S,S,A,A,S,
+Recommendation,S,S,A,S,S,S,A,A,S,A,S,S,S,S,,A,S,S,S,S,S,S,A,S,S,S,3
+Participant Response 7,S,A,S,S,A,A,S,A,S,A,S,S,S,A,S,A,A,A,S,S,S,S,S,S,S,S,
+Recommendation,A,A,A,A,A,A,A,A,A,A,A,A,A,A,,A,A,A,A,A,A,A,A,A,A,A,1
+Participant Response 8,S,A,S,A,S,S,A,A,A,A,A,A,S,A,A,A,A,A,A,S,A,S,S,A,A,A,
+Recommendation,S,S,A,S,S,S,A,A,S,A,S,S,S,S,,A,S,S,S,S,S,S,A,S,S,S,3
+Participant Response 9,S,S,S,S,S,S,A,S,S,A,S,A,S,A,S,A,A,A,A,S,A,S,S,A,A,S,
+Recommendation,S,S,A,S,S,S,A,A,S,A,S,S,S,S,,A,S,S,S,S,S,S,A,S,S,S,3
+Participant Response 10,S,A,S,S,S,S,S,S,S,A,S,A,S,S,S,A,A,A,A,S,S,S,S,A,S,S,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Consider Opponents Loss Aversion?,Yes,No,,,,Yes,,,Yes,,Yes,Yes,No,,No,,,Yes,Yes,,Yes,No,,,No,No,
+Comparison of Loss Aversion,Less,As,,,,As,,,More,,As,As,Less,,,,,Less,As,,As,,,,Less,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Compliance %,50.00%,70.00%,40.00%,100.00%,60.00%,70.00%,70.00%,80.00%,90.00%,100.00%,80.00%,60.00%,90.00%,80.00%,100.00%,100.00%,70.00%,50.00%,80.00%,50.00%,90.00%,50.00%,0.00%,60.00%,70.00%,60.00%,
+Compliance % for A,0.00%,80.00%,37.50%,100.00%,80.00%,60.00%,62.50%,75.00%,80.00%,100.00%,80.00%,40.00%,80.00%,100.00%,100.00%,100.00%,100.00%,100.00%,100.00%,0.00%,100.00%,0.00%,0.00%,60.00%,80.00%,40.00%,
+Compliance % for S,100.00%,60.00%,50.00%,100.00%,40.00%,80.00%,100.00%,100.00%,100.00%,100.00%,80.00%,80.00%,100.00%,60.00%,100.00%,100.00%,40.00%,0.00%,60.00%,100.00%,80.00%,100.00%,0.00%,60.00%,60.00%,80.00%,
+# of A Recommendations,0,3,2,2,4,3,3,3,2,4,2,3,2,4,2,4,4,5,3,0,3,0,1,2,2,2,
+# of S Recommendations,5,2,3,3,1,2,2,2,3,1,3,2,3,1,3,1,1,0,2,5,2,5,4,3,3,3,
+# of A Played,0,3,2,3,3,1,2,3,2,4,3,4,2,3,3,4,4,5,4,0,3,0,1,3,4,2,
+# of S Played,5,2,3,2,2,4,3,2,3,1,2,1,3,2,2,1,1,0,1,5,2,5,4,2,1,3,
